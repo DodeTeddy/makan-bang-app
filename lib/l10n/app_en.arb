@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "slogan": "five-star food at street prices",
+  "promotion": "experience the pleasure of five-star food at street prices",
+  "start": "Get Started",
+  "greeting": "Hello, {userName}",
+  "@greeting": {
+    "placeholders": {
+      "userName": {
+        "type": "String"
+      }
+    }
+  },
+  "eat": "What do you want to eat today?",
+  "hintText": "Search for food",
+  "popularFood": "Popular Food"
+}

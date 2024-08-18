@@ -1,0 +1,17 @@
+{
+  "@@locale": "id",
+  "slogan": "makanan bintang lima harga kaki lima",
+  "promotion": "rasakan kenikmatan makanan bintang lima dengan harga kaki lima",
+  "start": "Mulai",
+  "greeting": "Halo, {userName}",
+  "@greeting": {
+    "placeholders": {
+      "userName": {
+        "type": "String"
+      }
+    }
+  },
+  "eat": "Mau makan apa hari ini?",
+  "hintText": "Cari makanan",
+  "popularFood": "Makanan Populer"
+}
